@@ -1,9 +1,15 @@
-# Free Sketch Library Files
+# Free Sketch Library Template and Font Files
 
 `library-icons` directory contains:
 
  - Font Awesome Icon Library
  - Material Icon Icon Library
+
+Install the following if you encounter ? symbols instead of the proper icon symbols inside Sketch:
+
+ - Font Awesome Font bundle for Mac OS (FontAwesome.otf)
+ - Ion Icons Font bundle for Mac OS (ionicons.ttf)
+ - Material Designs Font bundle for Mac OS (materials.ttf)
 
 as described in this article: [FREE Sketch Icon Library Resource
 For Material Icons and FontAwesome](https://medium.com/@appchef.io/free-sketch-icon-library-resource-5e11062eccba)
