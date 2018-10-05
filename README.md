@@ -1,6 +1,7 @@
 # Free Sketch Library Template and Font Files
 
-`sketch-library-fonts` directory contains Sketch library font symbol files
+`sketch-library-templates` directory contains Sketch library symbol files
+- React Native Elements Library v1.sketch
 - Font Awesome Icon Library v1.sketch
 - Material Icon Icon Library v1.sketch
 
